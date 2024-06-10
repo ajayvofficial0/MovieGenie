@@ -2,7 +2,6 @@ IMP NOTE- The dataset I used is greater than 25mb so I have uploaded it as a zip
 
 Title: Exploring Movie Recommendation Systems
 
-Introduction:
 In the realm of digital entertainment, movie recommendation systems play a pivotal role in enhancing user experience by providing tailored suggestions that align with individual preferences. we'll embark on a journey to compare two distinct approaches: one rooted in cosine similarity of movie genres and another that leverages TF-IDF vectors. These approaches not only offer insights into the underlying principles of recommendation systems but also showcase the versatility and adaptability required to address diverse challenges in the field.
 
 1. Approach 1: Cosine Similarity of Movie Genres
