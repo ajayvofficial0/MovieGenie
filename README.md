@@ -1,3 +1,5 @@
+MovieGenie – Your wish for the perfect movie is granted!
+
 IMP NOTE- The dataset I used is greater than 25mb so I have uploaded it as a zip file.
 
 Title: Exploring Movie Recommendation Systems
